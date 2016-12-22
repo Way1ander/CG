@@ -67,6 +67,8 @@
     <Content Include="lab3\lab3.html" />
     <Content Include="lab4\lab4.html" />
     <Content Include="lab5\lab5.html" />
+    <Content Include="lab6\lab6.html" />
+    <Content Include="lab7\lab7.html" />
     <Content Include="RK\index.html" />
     <Content Include="RK\javascript\drawer.js" />
     <Content Include="util\bezierCurve.js" />
